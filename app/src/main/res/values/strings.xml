@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Final_AppPractice1</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+
+    <string-array name="nav_draw_items">
+        <item>Box1</item>
+        <item>Box2</item>
+        <item>Box3</item>
+        <item>Box4</item>
+        <item>Box5</item>
+        <item>Box6</item>
+        <item>Box7</item>
+        <item>Box8</item>
+        <item>Box9</item>
+        <item>Box12</item>
+        <item>Box13</item>
+        <item>Box14</item>
+        <item>Box15</item>
+        <item>Box16</item>
+        <item>Box17</item>
+        <item>Box18</item>
+    </string-array>
+
+
+</resources>

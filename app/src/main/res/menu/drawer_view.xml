@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/ic_action_droidy"
+            android:title="First Choice" />
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/ic_action_droidy"
+            android:title="Second Choice" />
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/ic_action_droidy"
+            android:title="Third Choice" />
+    </group>
+
+
+    <!--<item android:title="Sub_Menu">-->
+        <!--<menu>-->
+            <!--<group android:checkableBehavior="single">-->
+                <!--<item-->
+                    <!--android:icon="@drawable/ic_action_droidy"-->
+                    <!--android:title="Sub menu item 1" />-->
+                <!--<item-->
+                    <!--android:icon="@drawable/ic_action_droidy"-->
+                    <!--android:title="Sub menu item 2" />-->
+            <!--</group>-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
